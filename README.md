@@ -21,7 +21,7 @@
 
 3、以h36m数据集为例的demo: h36m_demo
 
-4、用matlab进行三界测距三维可视化：test_stereo_Triangulation
+4、用matlab进行三角测距三维可视化：test_stereo_Triangulation
 
 5、matlab进行三维重建过程中用的一些指令: yDailyFile
 
