@@ -13,15 +13,15 @@
 
 ->3 用三角测距法进行三维重建（运用matlab中的stereo_triangulation方法进行三维可视化）
 
+-------------------------------------------------------------------------------
+其中文件主要包括：
+1、提取特征点：sift_opencv
 
-文件包括：
-提取特征点：sift_opencv
+2、以THU-MVS数据集为例的demo: demo
 
-以THU-MVS数据集为例的demo: demo
+3、以h36m数据集为例的demo: h36m_demo
 
-以h36m数据集为例的demo: h36m_demo
+4、用matlab进行三界测距三维可视化：test_stereo_Triangulation
 
-用matlab进行三界测距三维可视化：test_stereo_Triangulation
-
-matlab进行三维重建过程中用的一些指令: yDailyFile
+5、matlab进行三维重建过程中用的一些指令: yDailyFile
 
